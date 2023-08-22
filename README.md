@@ -2,10 +2,9 @@
 
 <div id="header" align="center">
   <img src="https://github.com/arunixx/arunnatarajan/blob/main/2.png" width="300"/>
-  
-<img src="https://github.com/arunixx/arunnatarajan/blob/main/1.jpg" width="300"/>
-	<img src="https://github.com/arunixx/arunnatarajan/blob/main/msajce.jpg" width="300"/>
-	<img src="https://github.com/arunixx/arunnatarajan/blob/main/bi%20worldwide.jpg" width="300"/>
+  <img src="https://github.com/arunixx/arunnatarajan/blob/main/1.jpg" width="300"/>
+  <img src="https://github.com/arunixx/arunnatarajan/blob/main/msajce.jpg" width="300"/>
+  <img src="https://github.com/arunixx/arunnatarajan/blob/main/bi%20worldwide.jpg" width="300"/>
 </div>
 
 ## Hi 👋
@@ -22,7 +21,7 @@ UAE Resident.
 Having wide domain experience in Financial Services and Telecom industries
 
 
-## 𝐓ECHNICAL SKILLS
+# TECHNICAL SKILLS
 
 •	DevOps, CI/CD <br />
 •	Power BI, Tableau
@@ -44,23 +43,19 @@ Having wide domain experience in Financial Services and Telecom industries
 •	IaaC: Terraform, Ansible, Puppet <br />
 •	Orchestration:  Kubernetes, AKS, Openshift <br />
 
-## TECHNICAL CONTRIBUTION
-
-Tech Blogs:<br />
+# Tech Blogs:<br />
 •  https://medium.com/cloudnloud/to-create-and-develop-any-type-of-software-tool-such-as-netflix-facebook-amazon-paypal-and-3b5c3979ce8a <br />
 •  https://medium.com/cloudnloud/within-5-minutes-create-a-gke-google-kubernetes-engine-cluster-and-begin-practicing-kubernetes-2dc8d46da58b <br />
 •  https://medium.com/@arunix/create-a-gcp-google-cloud-platform-services-account-in-5min-9559bb32de83 <br />
 •  https://medium.com/@arunix/kubernetes-workshop-54c67672585e <br />
 •  https://medium.com/@arunix/monitor-node-and-pod-using-metricserver-9ddae80bfc9b <br />
 
-
-
-Tech Talk with AWS Leader: <br />
+# Tech Talk with AWS Leader: <br />
 <img src="https://github.com/arunixx/arunnatarajan/blob/main/Why.png" width="300"/> <br />
 
 https://youtu.be/Ajh7ty0PtyI
 
-Tech Videos:<br />
+# Tech Videos:<br />
 <img src="https://github.com/arunixx/arunnatarajan/blob/main/3.jpg" width="300"/> <br />
 https://youtu.be/PX50YlEFb0E  How to make professional YouTube video using free software <br />
 https://youtu.be/HToxWaUbxbI  Difference between COPY and ADD commands in Docker file <br />
