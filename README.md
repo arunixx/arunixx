@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
   <img src="https://github.com/arunixx/arunnatarajan/blob/main/2.png" width="300"/>
-  <img src="https://github.com/arunixx/arunnatarajan/blob/main/3.jpg" width="300"/>
+  
 <img src="https://github.com/arunixx/arunnatarajan/blob/main/1.jpg" width="300"/>
 	<img src="https://github.com/arunixx/arunnatarajan/blob/main/msajce.jpg" width="300"/>
 	<img src="https://github.com/arunixx/arunnatarajan/blob/main/bi%20worldwide.jpg" width="300"/>
@@ -56,9 +56,12 @@ Tech Blogs:<br />
 
 
 Tech Talk with AWS Leader: <br />
+<img src="https://github.com/arunixx/arunnatarajan/blob/main/Why.png" width="300"/> <br />
+
 https://youtu.be/Ajh7ty0PtyI
 
 Tech Videos:<br />
+<img src="https://github.com/arunixx/arunnatarajan/blob/main/3.jpg" width="300"/> <br />
 https://youtu.be/PX50YlEFb0E  How to make professional YouTube video using free software <br />
 https://youtu.be/HToxWaUbxbI  Difference between COPY and ADD commands in Docker file <br />
 https://youtu.be/51Fcj2xlGa8  Difference between CMD and ENTRYPOINT in Docker file <br />
