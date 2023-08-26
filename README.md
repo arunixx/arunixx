@@ -221,7 +221,7 @@ To **understand** more about **my career roles and experience**, please refer be
 	<img src="https://github.com/iamarunix/arunnatarajan/blob/main/HOW%20TO%20CREATE%20and%20UPload%20a%20video.png" width="300"/>
 
 	<img src="https://github.com/iamarunix/arunnatarajan/blob/main/Why%20Kubernetes.png" width="300"/>
-	<img src=https://github.com/iamarunix/arunnatarajan/blob/main/Capture3.PNG width="300"/>   	
+	<img src="https://github.com/iamarunix/arunnatarajan/blob/main/Capture3.PNG" width="300"/>   	
 
    
 </div>
