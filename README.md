@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://github.com/arunixx/arunnatarajan/blob/main/1.jpg" width="300"/>
   <img src="https://github.com/arunixx/arunnatarajan/blob/main/2.png" width="300"/>
-   <img src="https://github.com/arunixx/arunnatarajan/blob/main/msajce.jpeg" width="300"/>
+   <img src="https://github.com/arunixx/arunnatarajan/blob/main/3.jpg" width="300"/>
    <img src="https://github.com/iamarunix/arunnatarajan/blob/main/aws%201.PNG" width="300"/>
 </div>
 
@@ -21,7 +21,7 @@ UAE Resident.
 Having wide domain experience in Financial Services and Telecom industries
 
 
-# TECHNICAL SKILLS
+# CLOUD NATIVE SKILLS
 
 •	DevOps, CI/CD <br />
 •	Power BI, Tableau
@@ -56,15 +56,34 @@ Having wide domain experience in Financial Services and Telecom industries
 https://youtu.be/Ajh7ty0PtyI
 
 # Tech Videos:<br />
-<img src="https://github.com/arunixx/arunnatarajan/blob/main/3.jpg" width="300"/> <br />
+
 https://youtu.be/PX50YlEFb0E  How to make professional YouTube video using free software <br />
 https://youtu.be/HToxWaUbxbI  Difference between COPY and ADD commands in Docker file <br />
 https://youtu.be/51Fcj2xlGa8  Difference between CMD and ENTRYPOINT in Docker file <br />
 https://youtu.be/EVgoCAUypAg  AWS EC2 Automation Using Terraform - Infrastructure As A Code <br />
 https://youtu.be/sRc_4a5V6kg  Difference between Vertical and Horizontal Scaling <br />	
 https://youtu.be/tVkDife0GIY  Why do we need Kubernetes in IT Infrastructure? <br />
-
 </p>
+
+# As a speaker:<br />
+
+As a speaker for aspiring architects: <br />
+https://www.linkedin.com/feed/update/urn:li:activity:7093806405324816384/ <br />
+<img src="https://github.com/arunixx/arunnatarajan/blob/main/3.jpg" width="300"/> <br />
+Virtual session on ECS EKS: <br />
+https://www.linkedin.com/feed/update/urn:li:activity:7076150988960636928/ <br />
+<img src="https://github.com/iamarunix/arunnatarajan/blob/main/tech%20talk.PNG"  width="300"/> <br />
+As a speaker on Kubernetes: <br />
+https://www.linkedin.com/feed/update/urn:li:activity:7096511806910734336/ <br />
+<img src="https://github.com/iamarunix/arunnatarajan/blob/main/msajce.jpeg"  width="300"/> <br />
+
+
+# Meetup Organizer : <br />
+Co-orgainzer - Cloudnative Europe and Uk<br />
+https://www.meetup.com/cloud-native-europe-uk/<br />
+<img src=https://github.com/iamarunix/arunnatarajan/blob/main/meetup.PNG width="300"/> <br />
+
+
 
 ## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫 / Leader
 
@@ -193,49 +212,17 @@ To **understand** more about **my career roles and experience**, please refer be
 
   <br />
 
-<!--
+<div id="header" align="center">
+<img src=https://github.com/iamarunix/arunnatarajan/blob/main/Capture1.PNG width="300"/>
+<img src=https://github.com/iamarunix/arunnatarajan/blob/main/arch%20poster.PNG width="300"/>
+	<img src=https://github.com/iamarunix/arunnatarajan/blob/main/Capture2.PNG width="300"/>
+	<img src=https://github.com/iamarunix/arunnatarajan/blob/main/Capture4.PNG width="300"/>
+	<img src=https://github.com/iamarunix/arunnatarajan/blob/main/HOW%20TO%20CREATE%20and%20UPload%20a%20video.png width="300"/>
+	<img src=https://github.com/iamarunix/arunnatarajan/blob/main/DevOP.png width="300"/>
 
-#### My Profile: https://sraddepalli.github.io
-
--->
-
-
-<!--
- <p align="left"> 
-  
-  <img src="https://profile-counter.glitch.me/sraddepalli/count.svg" />
+	<img src=https://github.com/iamarunix/arunnatarajan/blob/main/Why%20Kubernetes.png width="300"/>
 	
-</p>
+<img src=https://github.com/iamarunix/arunnatarajan/blob/main/Capture3.PNG width="300"/>   	
 
--->
-
-<!--
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sraddepalli/count.svg" />
-</p>
-           
-  -->    
-  
-
-
-<!-- hitwebcounter Code START              
-
-
-<p>
-<img src="https://hitwebcounter.com/counter/counter.php?page=7979204&style=0002&nbdigits=9&type=page&initCount=10000"/>   
-
-</p>
-
-    -->    
-
-
-
-<!-- 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sraddepalli&label=Views&color=blue&style=plastic" alt="sraddepalli" /> </p>
-
-  -->  
-  
- 
+   
+</div>
