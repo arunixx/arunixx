@@ -130,6 +130,6 @@ To **understand** more about **my career roles and experience**, please refer be
 	<img src=https://github.com/iamarunix/arunnatarajan/blob/main/Capture4.PNG width="300"/>
 		<img src="https://github.com/iamarunix/arunnatarajan/blob/main/DevOP.png" width="300"/>
 
-	<img src="https://github.com/iamarunix/arunnatarajan/blob/main/Why%20Kubernetes.png" width="300"/>
+
 
 </div>
