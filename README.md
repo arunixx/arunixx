@@ -2,8 +2,7 @@
 
 <div id="header" align="center">
   <img src="https://github.com/arunixx/arunnatarajan/blob/main/1.jpg" width="300"/>
-  <img src="https://github.com/arunixx/arunnatarajan/blob/main/2.png" width="300"/>
-   <img src="https://github.com/arunixx/arunnatarajan/blob/main/3.jpg" width="300"/>
+ 
    <img src="https://github.com/iamarunix/arunnatarajan/blob/main/aws%201.PNG" width="300"/>
 </div>
 
@@ -70,9 +69,7 @@ https://youtu.be/tVkDife0GIY  Why do we need Kubernetes in IT Infrastructure? <b
 As a speaker for aspiring architects: <br />
 https://www.linkedin.com/feed/update/urn:li:activity:7093806405324816384/ <br />
 <img src="https://github.com/arunixx/arunnatarajan/blob/main/3.jpg" width="300"/> <br />
-Virtual session on ECS EKS: <br />
-https://www.linkedin.com/feed/update/urn:li:activity:7076150988960636928/ <br />
-<img src="https://github.com/iamarunix/arunnatarajan/blob/main/tech%20talk.PNG"  width="300"/> <br />
+
 As a speaker on Kubernetes: <br />
 https://www.linkedin.com/feed/update/urn:li:activity:7096511806910734336/ <br />
 <img src="https://github.com/iamarunix/arunnatarajan/blob/main/msajce.jpeg"  width="300"/> <br />
@@ -87,19 +84,7 @@ https://www.meetup.com/cloud-native-europe-uk/<br />
 
 ## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫 / Leader
 
-<P>
-I am part of 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Core team.
 
-The CloudnLoud Tech Community is a non-profit open-source tech community, with volunteer-run events presented by members of the CloudnLoud Community.
-
-The goal of our community is to bring together companies, leaders, and professionals from around the world to share ideas, socialize and work together on advancing the present and future success of the project. We are part of this for a good cause to save millions of Cancer children.
-
-At CloudnLoud Tech community, we are organizing free tech conferences, technical training and technical discussions on various IT technologies & open-source tools.
-
-</p>		  
-			     
-
-<br />
 
 To **understand** more about **my career roles and experience**, please refer below icons & other links: 
 
@@ -125,10 +110,7 @@ To **understand** more about **my career roles and experience**, please refer be
 
 <div id="header" align="center">
 <img src=https://github.com/iamarunix/arunnatarajan/blob/main/Capture1.PNG width="300"/>
-<img src=https://github.com/iamarunix/arunnatarajan/blob/main/arch%20poster.PNG width="300"/>
-	<img src=https://github.com/iamarunix/arunnatarajan/blob/main/Capture2.PNG width="300"/>
-	<img src=https://github.com/iamarunix/arunnatarajan/blob/main/Capture4.PNG width="300"/>
-		<img src="https://github.com/iamarunix/arunnatarajan/blob/main/DevOP.png" width="300"/>
+
 
 
 
