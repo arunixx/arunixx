@@ -2,7 +2,6 @@
 
 <div id="header" align="center">
   <img src="https://github.com/arunixx/arunnatarajan/blob/main/1.jpg" width="300"/>
- 
    <img src="https://github.com/iamarunix/arunnatarajan/blob/main/aws%201.PNG" width="300"/>
 </div>
 
