@@ -12,7 +12,9 @@ I'm **[Arun Natarajan](https://www.linkedin.com/in/arunix/)** ; You can call me 
 
 Having 15+ years of professional experience in IT with Bachelors Degree (B.E). 
 
-Working as Principal Consultant / Architect - Cloud, DevOps & Data. Helped customers with Data & Cloud Migration, Security Advisory for Cloud Migration Engagements. 
+Working as Principal Consultant / Architect - Cloud, DevOps & Data. 
+
+Helped customers with Data & Cloud Migration, Security Advisory for Cloud Migration Engagements. 
 
 UAE Resident.
 
